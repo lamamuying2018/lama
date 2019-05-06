@@ -1,2 +1,0 @@
-# lama
-lamamuying
